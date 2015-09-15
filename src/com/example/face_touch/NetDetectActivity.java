@@ -24,7 +24,7 @@ import com.example.face_touch.FaceDetect.CallBack;
 import com.facepp.error.FaceppParseException;
 
 
-public class MainActivity extends Activity implements OnClickListener{
+public class NetDetectActivity extends Activity implements OnClickListener{
 
 
 	protected static final int MSG_SUCCESS = 0;
